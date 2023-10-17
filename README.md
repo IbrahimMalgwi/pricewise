@@ -1,1 +1,1 @@
-Dive into web scraping and build a Next.js 13 eCommerce price tracker within a single video that teaches you data scraping, cron jobs, sending emails, deployment, and more.
+Web scraping using Next.js 13. eCommerce price tracker for data scraping, cron jobs, sending emails, deployment, and more.
