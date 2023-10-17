@@ -24,7 +24,7 @@ export async function scrapeAndStoreProduct(productUrl: string) {
 
     if(existingProduct) {
       const updatedPriceHistory: any = [
-        ...existingProduct.priceHistory,
+        ...existingProduct.priceHistory, 
         { price: scrapedProduct.currentPrice }
       ]
 
