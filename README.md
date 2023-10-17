@@ -1,1 +1,1 @@
-Web scraping using Next.js 13. eCommerce price tracker for data scraping, cron jobs, sending emails, deployment, and more.
+Web scraping using Next.js 13. eCommerce price tracker for data scraping, cron jobs, sending emails.
